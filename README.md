@@ -7,9 +7,8 @@
 ![brides assistant Preview](brides_assistant_screens.png)
 
 ----
-Here’s a preview of the charming onboarding experience, designed to welcome brides into a world of seamless planning:
+<img width="1430" height="845" alt="brides_assistant_screens png" src="https://github.com/user-attachments/assets/1cb230c0-58e1-41b7-81ac-dc331ea3151c" />
 
-![Screenshots Preview](brides_assistant_screens.png)
 
 ----
 
