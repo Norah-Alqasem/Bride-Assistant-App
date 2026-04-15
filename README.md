@@ -3,6 +3,9 @@
 > A comprehensive Android application designed to simplify and centralize wedding planning for brides in Saudi Arabia's Eastern Province — combining budgeting, vendor discovery, task management, guest coordination, and cultural context into one intuitive platform.
 
 <br>
+### APP Preview
+![brides assistant Preview](brides_assistant_screens.png)
+
 ----
 Here’s a preview of the charming onboarding experience, designed to welcome brides into a world of seamless planning:
 
