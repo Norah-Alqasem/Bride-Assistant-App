@@ -1,4 +1,4 @@
-# 💍 Bride Assistant App
+#  Bride Assistant App
 
 > A comprehensive Android application designed to simplify and centralize wedding planning for brides in Saudi Arabia's Eastern Province — combining budgeting, vendor discovery, task management, guest coordination, and cultural context into one intuitive platform.
 
@@ -9,7 +9,7 @@ College of Computing & Informatics (CCI), Saudi Electronic University
 
 ---
 
-## 👩‍💻 Team
+##  Team
 
 | Name | Student ID |
 |---|---|
@@ -24,7 +24,7 @@ College of Computing & Informatics (CCI), Saudi Electronic University
 
 ---
 
-## 📋 Table of Contents
+##  Table of Contents
 
 - [About the Project](#-about-the-project)
 - [Problem Statement](#-problem-statement)
@@ -39,7 +39,7 @@ College of Computing & Informatics (CCI), Saudi Electronic University
 
 ---
 
-## 📌 About the Project
+##  About the Project
 
 Wedding planning in Saudi Arabia's Eastern Province is a deeply cultural, logistically complex, and emotionally demanding process. Brides are expected to coordinate vendors, manage tight budgets, maintain large guest lists, and navigate strong cultural traditions — all at the same time.
 
@@ -49,7 +49,7 @@ The **Bride Assistant App** was built to fix that. It is a single, culturally-aw
 
 ---
 
-## ❗ Problem Statement
+##  Problem Statement
 
 Traditional wedding planning methods in the Eastern Province suffer from:
 
@@ -61,35 +61,35 @@ Traditional wedding planning methods in the Eastern Province suffer from:
 
 ---
 
-## ✨ Features
+##  Features
 
-### 🔐 User Authentication & Account Management
+###  User Authentication & Account Management
 Users can register an account by providing their full name, email, password, address, and phone number. The system supports secure login via email/password credentials and includes a password recovery flow via email reset link. A separate admin panel allows platform administrators to manage users, stores, and categories independently from the bride-facing interface.
 
-### 💰 Budget Management
+###  Budget Management
 Brides can define a total wedding budget and log individual expenses against it. The system tracks spending in real time, generates visual budget reports, and triggers alerts when spending approaches the set limit. The budget screen was updated during development based on user testing feedback to include an expense tracking summary box for clearer financial visibility.
 
-### 🏪 Vendor Directory
+###  Vendor Directory
 The app provides a curated directory of local vendors and stores in the Eastern Province, organized by category (e.g., photography, catering, décor, entertainment). Users can browse vendor profiles, read reviews and ratings, and contact vendors directly through the app. Admins manage the vendor database — they can add, update, block vendors, and manage categories — ensuring the directory stays accurate and relevant.
 
-### ✅ Task Organization
+###  Task Organization
 Brides can create a personalized wedding checklist, assign deadlines to individual tasks, and track completion progress. Tasks are saved persistently and displayed in an organized list, allowing brides to stay on top of all planning steps — from sending invitations to signing vendor contracts.
 
-### 👥 Guest List Management
+###  Guest List Management
 The app includes a full guest list module where brides can add guests by name and relationship, track RSVP statuses, and manage the overall headcount. The guest list is saved and updated in real time, eliminating the need for manual spreadsheets.
 
-### 📅 Wedding Information & Countdown
+###  Wedding Information & Countdown
 Brides enter their wedding date and venue in a dedicated screen. The app automatically calculates and displays a live countdown to the wedding day, updating dynamically as the date changes. This feature was refined during development based on supervisor feedback to include the countdown box as a prominent UI element.
 
-### ⭐ Ratings & Comments
+###  Ratings & Comments
 Users can leave ratings and comments on vendor profiles, contributing to a community-driven quality signal for other brides searching the directory.
 
-### 📱 Admin Panel
+###  Admin Panel
 A dedicated admin interface handles platform management separately from the bride's experience. Admins can: view and manage the full users list, add or update vendor/store listings, block vendors who violate platform policies, and manage store categories.
 
 ---
 
-## 🏗️ System Architecture & Design
+##  System Architecture & Design
 
 The system was designed using a full set of standard UML and architectural diagrams:
 
@@ -106,7 +106,7 @@ The architecture separates concerns between the Android front-end (built in Andr
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 | Layer | Tool |
 |---|---|
@@ -119,7 +119,7 @@ The architecture separates concerns between the Android front-end (built in Andr
 
 ---
 
-## ⚙️ Methodology
+##  Methodology
 
 The project followed the **Waterfall software development methodology**, selected for three key reasons:
 
@@ -129,7 +129,7 @@ The project followed the **Waterfall software development methodology**, selecte
 
 ---
 
-## 🧪 Testing & Evaluation
+##  Testing & Evaluation
 
 The application was evaluated through structured black-box test cases covering all core user flows. Each test case specifies: identifier, priority, related use case, pre-conditions, input data, step-by-step execution, expected result, and post-conditions.
 
@@ -153,7 +153,7 @@ All test cases were assigned **High** priority, reflecting their coverage of the
 
 ---
 
-## 📚 Research Background
+##  Research Background
 
 The project was grounded in a review of 14 studies spanning wedding planning systems, mobile application design, software development methodologies, Firebase architecture, and Saudi cultural context. Key findings that shaped the design:
 
@@ -166,7 +166,7 @@ The project was grounded in a review of 14 studies spanning wedding planning sys
 
 ---
 
-## 💡 Challenges & Learnings
+##  Challenges & Learnings
 
 **Building for a culturally specific audience**  
 Designing for brides in the Eastern Province required more than feature parity with existing apps — it required understanding the role of family, tradition, and regional vendor ecosystems in Saudi weddings. The team had to make deliberate design decisions to ensure cultural appropriateness was built into the UX, not added as an afterthought.
@@ -185,7 +185,7 @@ Coordinating across five contributors with overlapping deliverables required exp
 
 ---
 
-## 🔮 Future Work
+##  Future Work
 
 - **AI-powered vendor recommendations** — personalized suggestions based on the user's preferences, budget, and browsing behavior
 - **Augmented reality venue previews** — let brides visualize décor and venue layouts before committing
@@ -195,7 +195,7 @@ Coordinating across five contributors with overlapping deliverables required exp
 
 ---
 
-## 📄 Academic Context
+##  Academic Context
 
 This project was submitted in partial fulfillment of the requirements for the **Bachelor of Science in Information Technology** at Saudi Electronic University, College of Computing & Informatics.
 
@@ -203,4 +203,4 @@ This project was submitted in partial fulfillment of the requirements for the **
 
 ---
 
-*Built by five IT students from the Eastern Province — for brides from the Eastern Province. Where tradition meets technology.* 💗
+*Built by five IT students from the Eastern Province — for brides from the Eastern Province. Where tradition meets technology.* 
