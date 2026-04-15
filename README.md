@@ -4,7 +4,7 @@
 
 <br>
 
-**Senior Project II — Bachelor of Science in Information Technology**  
+**Senior Project  — Bachelor of Science in Information Technology**  
 College of Computing & Informatics (CCI), Saudi Electronic University
 
 ---
