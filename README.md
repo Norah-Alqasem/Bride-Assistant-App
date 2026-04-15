@@ -11,13 +11,13 @@ College of Computing & Informatics (CCI), Saudi Electronic University
 
 ##  Team
 
-| Name | Student ID |
+| Name |
 |---|---|
-| Norah Nawaf Alqasem | 200088111 |
-| Mudhi Khalaf Albuainain | 210026034 |
-| Ragad Faisal Alqarni | 210024612 |
-| Sarah Saad Aldawsari | 210024963 |
-| Nouf Nasser Alalyani | 200011269 |
+| Norah Nawaf Alqasem | 
+| Mudhi Khalaf Albuainain | 
+| Ragad Faisal Alqarni | 
+| Sarah Saad Aldawsari | 
+| Nouf Nasser Alalyani | 
 
 **Project Supervisor:** Dr. Huda Dakheel Allah Aljohani  
 **Institution:** Saudi Electronic University, Riyadh, Saudi Arabia
