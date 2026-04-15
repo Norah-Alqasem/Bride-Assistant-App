@@ -9,18 +9,7 @@ College of Computing & Informatics (CCI), Saudi Electronic University
 
 ---
 
-##  Team
 
-| Name |
-|---|---|
-| Norah Nawaf Alqasem | |
-| Mudhi Khalaf Albuainain | |
-| Ragad Faisal Alqarni | |
-| Sarah Saad Aldawsari | |
-| Nouf Nasser Alalyani | |
-
-**Project Supervisor:** Dr. Huda Dakheel Allah Aljohani  
-**Institution:** Saudi Electronic University, Riyadh, Saudi Arabia
 
 ---
 
